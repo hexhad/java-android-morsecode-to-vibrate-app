@@ -1,3 +1,3 @@
 # MorseCode Converter
 
-![](/imgs/img.png)
+![](/img/img.png)
